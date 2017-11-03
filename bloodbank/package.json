@@ -1,0 +1,25 @@
+{
+  "name": "bloodbank",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.6.0",
+    "material-ui": "^0.19.4",
+    "react": "^16.0.0",
+    "react-background-image-loader": "^0.0.5",
+    "react-dom": "^16.0.0",
+    "react-fontawesome": "^1.6.1",
+    "react-icons": "^2.2.7",
+    "react-images-upload": "^1.1.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
